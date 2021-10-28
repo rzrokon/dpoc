@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'apps.revision',
     'rest_framework',
     'reversion',
+    'apps.multimodel',
 ]
 
 MIDDLEWARE = [
